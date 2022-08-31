@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Carlos Park</h1>
 <div id="badges">
-  <a href="https://linkedin.com/in/carflos-park">
+  <a href="https://linkedin.com/in/carlos-park">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://portfolio-carlos-park.vercel.app/">
@@ -86,9 +86,9 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-F05032?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=Heroku&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-FF6C37?style=for-the-badge&logo=jwt&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-CC6699?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-F05032?style=for-the-badge&logo=redux&logoColor=white">
 </span>
     
