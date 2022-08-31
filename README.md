@@ -25,6 +25,7 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
     </a>
 </p>
 
+<!--
 ![trophy](https://portfolio-carlos-park.vercel.app)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cspark0610&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cspark0610&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
@@ -32,13 +33,14 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+-->
 
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript">
+  <img src="https://img.shields.io/badge/Typescript-FF2D20?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
@@ -55,8 +57,8 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/-GraphQL-red?style=flat&logo=graphql">
-  <img src="https://img.shields.io/badge/Postgre-07405E?style=for-the-badge&logo=Postgres&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-00000F?style=for-the-badge&logo=graphqllor=white">
+  <img src="https://img.shields.io/badge/Postgres-07405E?style=for-the-badge&logo=Postgres&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
@@ -84,9 +86,9 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku">
-  <img src="https://img.shields.io/badge/-JWT-black?style=flat&logo=jwt">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat&logo=docker">
-  <img src="https://img.shields.io/badge/-Redux-blue?style=flat&logo=redux">
+  <img src="https://img.shields.io/badge/Heroku-F05032?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-FF6C37?style=for-the-badge&logo=jwt&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-CC6699?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-F05032?style=for-the-badge&logo=redux&logoColor=white">
 </span>
     
