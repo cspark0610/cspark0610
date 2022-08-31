@@ -57,8 +57,8 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/GraphQL-00000F?style=for-the-badge&logo=graphqllor=white">
-  <img src="https://img.shields.io/badge/Postgres-07405E?style=for-the-badge&logo=Postgres&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-00000F?style=for-the-badge&logo=Graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-07405E?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </span>
@@ -83,7 +83,7 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-07405E?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-00000F?style=for-the-badge&logo=Heroku&logoColor=white">
