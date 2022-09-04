@@ -25,7 +25,7 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
     </a>
 </p>
 
-<!--
+
 ![trophy](https://portfolio-carlos-park.vercel.app)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cspark0610&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cspark0610&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
@@ -33,7 +33,7 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
--->
+
 
 <h4> Languages </h4>
 <span> 
