@@ -26,7 +26,8 @@ I am a fullstack web developer and backend developer from Buenos Aires, Argentin
 </p>
 
 
-![trophy](https://portfolio-carlos-park.vercel.app)
+![trophy]
+(https://portfolio-carlos-park.vercel.app)
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cspark0610&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cspark0610&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
 </br>
